@@ -6,7 +6,7 @@
 Summary:	LIM OpenMax utility library
 Name:		liblimutil
 Version:	0.1.2
-Release:	1
+Release:	2
 Group:		System/Libraries
 License:	LGPLv2.1+
 Url:		http://limoa.sourceforge.net/
