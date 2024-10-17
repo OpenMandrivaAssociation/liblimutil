@@ -9,7 +9,7 @@ Version:	0.1.2
 Release:	2
 Group:		System/Libraries
 License:	LGPLv2.1+
-Url:		http://limoa.sourceforge.net/
+Url:		https://limoa.sourceforge.net/
 Source0:	%{name}-%{version}.tar.xz
 Patch0:		liblimutil-0.1.2-add-missing-pthread-linkage.patch
 
